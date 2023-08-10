@@ -1,0 +1,16 @@
+here is the original array
+-029.48		-089.10		+173.08		+151.63		-388.65
++438.41		-113.39		-020.19		-269.40		-445.32
++465.37		+407.68
+here is the average of this array:  23.39
+
+
+--------
+here is the new array
++052.87		+112.49		-149.69		-128.25		+412.04
+-415.02		+136.77		+043.57		+292.79		+468.71
+-441.98		-384.29
+here is the average of this array:   0.00
+
+-20.19 is the cloest value from the average: +43.57
+-445.32 is the furtherest value from the average: +468.71
